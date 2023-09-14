@@ -20,7 +20,7 @@ please navigate back now.{{% /notice %}}
 ```
 $ cdk ls
 cdk_workshop
-$ cd cdk_workshop
+
 ```
 
 We can then synthesize:
